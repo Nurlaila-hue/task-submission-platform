@@ -1,0 +1,8 @@
+/uploads/*
+/public/uploads/*
+/public/assets/profile/*
+.env
+.env.*
+!.env.example
+/vendor/
+/node_modules/
